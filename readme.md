@@ -1,6 +1,6 @@
 # KFDstars
 
-A minimal iOS customization tool relying on Kernel File Descriptor or "KFD" vulnerability.
+A minimal iOS customization tool relying on Kernel File Descriptor or shortly "KFD" vulnerability.
 
 "KFD" is a kernel file descriptor that allows the exploiter to read/write on the kernel memory on iOS devices.
 
