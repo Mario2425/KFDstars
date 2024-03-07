@@ -6,9 +6,9 @@ A minimal iOS customization tool relying on Kernel File Descriptor or shortly "K
 
 
 
-# Supported versions
+# Supported versions & devices
 
-Supports: iOS 16.0-17.0(beta 4) ,excluding iOS 16.7.X
+Supports: iOS 16.0-17.0(beta 4) ,excluding iOS 16.7.X | *A9-A16 SoCs*
 
 *No iOS 15 support for now, can be added but not sure*
 
