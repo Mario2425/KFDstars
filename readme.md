@@ -12,7 +12,7 @@ Supports: iOS 16.0-17.0(beta 4) ,excluding iOS 16.7.X | *A9-A16 SoCs*
 
 *No iOS 15 support for now, might be added in the future but not sure.*
 
-KFD puaf_physuppet, KFD puaf_smith & KFD puaf_landa | *A9-16*
+KFD puaf_physuppet, KFD puaf_smith & KFD puaf_landa | *A9-A16*
 
 # Exploit support
 
