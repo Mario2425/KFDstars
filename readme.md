@@ -29,4 +29,4 @@ First release will have:
  2) Customize lock screen (lock icon)
  3) Trollstore installer (helper to a system app)
  4) Settings app customizer (head note, image)
- 5) *JIT enabler (NOTE that this broken on iOS 17)*
+ 5) # *JIT enabler (NOTE that this broken on iOS 17)*
