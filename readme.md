@@ -21,3 +21,12 @@ puaf_pyhsuppet: 16.0-16.3.1
 puaf_smith: 16.0-16.6(beta 1)
 
 puaf_landa(recommended): 16.0-16.6.1 & 17.0(beta 1)-17.0(beta 4)
+
+# Features
+First release will have:
+
+ 1) Customize icons (aplies to all apps)
+ 2) Customize lock screen (lock icon)
+ 3) Trollstore installer (helper to a system app)
+ 4) Settings app customizer (head note, image)
+ 5) *JIT enabler (NOTE that this broken on iOS 17)*
