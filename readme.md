@@ -34,4 +34,4 @@ First release will have:
  3) Trollstore installer (helper to a system app)
  4) Settings app customizer (head note, image)
  5) Folder & dock background customizer (blur, color)
- 6)*JIT enabler* **(NOTE that this is broken on iOS 17)**
+ 6) *JIT enabler* **(NOTE that this is broken on iOS 17)**
