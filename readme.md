@@ -22,7 +22,7 @@ KFD puaf_physuppet, KFD puaf_smith & KFD puaf_landa | *A9-A16*
 
 puaf_pyhsuppet: 16.0-16.3.1
 
-puaf_smith: 16.0-16.6(beta 1)
+puaf_smith: 16.0-16.5 & 16.6(beta 1)
 
 puaf_landa(recommended): 16.0-16.6.1 & 17.0(beta 1)-17.0(beta 4)
 
