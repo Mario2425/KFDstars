@@ -4,6 +4,12 @@ A minimal iOS customization tool relying on Kernel File Descriptor or shortly "K
 
 "KFD" is a kernel file descriptor that allows the exploiter to read/write on the kernel memory on iOS devices.
 
+# Update!
+
+I was forced to update my iDevice to a Non-KFD iOS version so the project will be paused for some time or completely cancelled. Will be resumed if i can get a test device.
+
+# You can check my *Repositories* to find my latest *Sparsestore* customization tool project! If you have any questions about it feel free to ask! 
+
 **LOGO:**
 
 ![KFD](https://github.com/Mario2425/KFDstars/assets/80973579/804d3710-fd5a-4ae9-bb2c-1a1eb90917b2)
