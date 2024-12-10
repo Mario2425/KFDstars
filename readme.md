@@ -6,7 +6,7 @@ A minimal iOS customization tool relying on Kernel File Descriptor or shortly "K
 
 # Update!
 
-I was forced to update my iDevice to a Non-KFD iOS version so the project will be paused for some time or completely cancelled. Will be resumed if i can get a test device.
+I was forced to update my iDevice to a Non-KFD iOS version so the project will be paused for some time or will be completely cancelled. Will be resumed if i can get a test device.
 
 # You can check my *Repositories* to find my latest *Sparsestore* customization tool project! If you have any questions about it feel free to ask! 
 
